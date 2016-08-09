@@ -104,7 +104,7 @@
 		    "zwave": {
 			    "manufacturerId": 271,
 			    "productTypeId": 256,
-			    "productId": 4106,
+			    "productId": 265,
 			    "learnmode": {
 				    "image": "/drivers/FGD-211/assets/learnmode.svg",
 				    "instruction": {
